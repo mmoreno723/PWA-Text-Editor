@@ -27,9 +27,11 @@ module.exports = () => {
         swDest: "src-sw.js",
       }),
       new WebpackPwaManifest({
-        name: "Text Editor",
-        short_name: "Text Editor",
+        fingerprints: false,
+        name: "JATE Text Editor",
+        short_name: "JATE",
         description: "Edit texts even when offline!",
+        display: "standalone",
         background_color: "#7eb4e2",
         theme_color: "#7eb4e2",
         start_url: "./",
