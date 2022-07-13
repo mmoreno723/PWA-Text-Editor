@@ -27,7 +27,16 @@ You may use this to create notes and snippets of code to view them for future us
 
 ## Screenshots
 
+<img width="1437" alt="Screen Shot 2022-07-12 at 11 59 03 PM" src="https://user-images.githubusercontent.com/102837154/178647913-ba5657a7-ae48-4c6f-8107-a7a9dca1615f.png">
+
+<img width="1437" alt="Screen Shot 2022-07-12 at 11 59 43 PM" src="https://user-images.githubusercontent.com/102837154/178647962-5d6d418e-2804-4762-9540-c175af394ffe.png">
+
+<img width="1251" alt="Screen Shot 2022-07-13 at 12 00 39 AM" src="https://user-images.githubusercontent.com/102837154/178647973-0f0061fe-c7d4-42fa-ad62-5346a199abd3.png">
+
+
 ## Heroku Deployed Link
+
+https://fierce-cove-27265.herokuapp.com/
 
 ## Credits
 Thank you to websites like the webpack and manifest documentation for providing crucial information as how to implement certain functionalities of the application.
